@@ -120,7 +120,7 @@ Ce projet est une application de gestion de bibliothèque développée avec Lara
 
 ## Installation des dépendances
 
-composer install
+php artisan key:generate
 npm install
 npm run dev
 
